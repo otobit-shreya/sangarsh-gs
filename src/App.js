@@ -70,7 +70,7 @@ const App = () => {
               id="searchSport"
               className="search-input"
               value={searchSport}
-              placeholder="Enter Sports name here"
+              placeholder="Enter Sport Name here"
               onChange={handleSearchChange}
               style={{padding:'15px'}}
             />
